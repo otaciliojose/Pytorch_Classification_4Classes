@@ -1,4 +1,4 @@
-# Pytorch_Classification_4Classesasses
+# Pytorch_Classification_4Classes
 
 # Projeto de Modelo PyTorch para Classificação de Quatro Classes
 
